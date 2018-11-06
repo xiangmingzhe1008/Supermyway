@@ -1,0 +1,44 @@
+2018-02-25 10:00:12,console information:
+Traceback (most recent call last):
+  File "E:\eclipse\workspace\Auto_MyFund_To_Client\Auto_MyFund_Py34\cases\test_File_retrieve\ASX_Income_File_get_current_monday.py", line 139, in test_ASX_Income_File
+    self.login()
+  File "E:\eclipse\workspace\Auto_MyFund_To_Client\Auto_MyFund_Py34\cases\test_File_retrieve\ASX_Income_File_get_current_monday.py", line 46, in login
+    nowhandle = driver.current_window_handle
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 607, in current_window_handle
+    return self.execute(Command.GET_CURRENT_WINDOW_HANDLE)['value']
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 297, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: Window is closed
+
+2018-02-25 10:00:12,console information:
+Traceback (most recent call last):
+  File "E:\eclipse\workspace\Auto_MyFund_To_Client\Auto_MyFund_Py34\cases\test_File_retrieve\ASX_Income_File_get_current_monday.py", line 139, in test_ASX_Income_File
+    self.login()
+  File "E:\eclipse\workspace\Auto_MyFund_To_Client\Auto_MyFund_Py34\cases\test_File_retrieve\ASX_Income_File_get_current_monday.py", line 46, in login
+    nowhandle = driver.current_window_handle
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 607, in current_window_handle
+    return self.execute(Command.GET_CURRENT_WINDOW_HANDLE)['value']
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 297, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: Window is closed
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\eclipse\workspace\Auto_MyFund_To_Client\Auto_MyFund_Py34\cases\test_File_retrieve\ASX_Income_File_get_current_monday.py", line 139, in test_ASX_Income_File
+    self.login()
+  File "E:\eclipse\workspace\Auto_MyFund_To_Client\Auto_MyFund_Py34\cases\test_File_retrieve\ASX_Income_File_get_current_monday.py", line 42, in login
+    driver.get(self.baseurl)
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 309, in get
+    self.execute(Command.GET, {'url': url})
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 297, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: Unable to get browser
+

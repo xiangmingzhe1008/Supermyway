@@ -1,0 +1,44 @@
+2018-02-05 10:36:35,console information:
+Traceback (most recent call last):
+  File "E:\eclipse\workspace\Auto_MyFund_To_Client\Auto_MyFund_Py34\cases\test_File_retrieve\ASX_Income_File_get_current_monday.py", line 158, in test_ASX_Income_File
+    driver.find_element_by_id("ctl00_ContentPlaceHolder1_gvFiles_ctl02_chkTick").click()
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 330, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 832, in find_element
+    'value': value})['value']
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 297, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with id == ctl00_ContentPlaceHolder1_gvFiles_ctl02_chkTick
+
+2018-02-05 10:36:35,console information:
+Traceback (most recent call last):
+  File "E:\eclipse\workspace\Auto_MyFund_To_Client\Auto_MyFund_Py34\cases\test_File_retrieve\ASX_Income_File_get_current_monday.py", line 158, in test_ASX_Income_File
+    driver.find_element_by_id("ctl00_ContentPlaceHolder1_gvFiles_ctl02_chkTick").click()
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 330, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 832, in find_element
+    'value': value})['value']
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 297, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with id == ctl00_ContentPlaceHolder1_gvFiles_ctl02_chkTick
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\eclipse\workspace\Auto_MyFund_To_Client\Auto_MyFund_Py34\cases\test_File_retrieve\ASX_Income_File_get_current_monday.py", line 139, in test_ASX_Income_File
+    self.login()
+  File "E:\eclipse\workspace\Auto_MyFund_To_Client\Auto_MyFund_Py34\cases\test_File_retrieve\ASX_Income_File_get_current_monday.py", line 42, in login
+    driver.get(self.baseurl)
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 309, in get
+    self.execute(Command.GET, {'url': url})
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 297, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Failed to navigate to https://www.idssuper.com.au/Pages/Login.aspx. This usually means that a call to the COM method IWebBrowser2::Navigate2() failed.
+

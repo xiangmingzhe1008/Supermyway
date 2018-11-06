@@ -1,0 +1,12 @@
+2018-03-12 18:17:15,console information:
+Traceback (most recent call last):
+  File "<string>", line 119, in test_cr_cashtransfer
+  File "<string>", line 41, in login
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 629, in maximize_window
+    self.execute(command, {"windowHandle": "current"})
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 297, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: Error retrieving window with handle current
+

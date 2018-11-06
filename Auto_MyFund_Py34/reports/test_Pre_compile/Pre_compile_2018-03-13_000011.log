@@ -1,0 +1,156 @@
+2018-03-13 00:01:40,Category is : Cash Transfer    Entry type is : Cash Account/Loan Deposit    start at:00:01:28    stop at:00:01:40
+2018-03-13 00:01:54,Category is : Cash Transfer    Entry type is : Securities Application Refund    start at:00:01:43    stop at:00:01:54
+2018-03-13 00:02:08,Category is : Cash Transfer    Entry type is : Managed Account Withdrawal    start at:00:01:57    stop at:00:02:08
+2018-03-13 00:03:02,Category is : Fund Income    Entry type is : Interest Receipt    start at:00:02:51    stop at:00:03:02
+2018-03-13 00:03:16,Category is : Fund Income    Entry type is : Dividend Receipt    start at:00:03:05    stop at:00:03:16
+2018-03-13 00:03:34,Category is : Fund Income    Entry type is : Distribution Receipt    start at:00:03:19    stop at:00:03:34
+2018-03-13 00:03:51,Category is : Fund Income    Entry type is : Rental/Lease Income    start at:00:03:37    stop at:00:03:51
+2018-03-13 00:04:07,Category is : Fund Income    Entry type is : Receipt of Accrual    start at:00:03:54    stop at:00:04:07
+2018-03-13 00:04:22,Category is : Fund Income    Entry type is : ATO Refund    start at:00:04:10    stop at:00:04:22
+2018-03-13 00:04:40,Category is : Fund Income    Entry type is : Receipt of an Equalisation Amount    start at:00:04:24    stop at:00:04:40
+2018-03-13 00:04:58,Category is : Fund Income    Entry type is : Non Trust Distribution    start at:00:04:43    stop at:00:04:58
+2018-03-13 00:05:12,Category is : Fund Income    Entry type is : Insurance Policy Proceeds    start at:00:05:01    stop at:00:05:12
+2018-03-13 00:05:27,Category is : Fund Income    Entry type is : Sundry Creditor    start at:00:05:15    stop at:00:05:27
+2018-03-13 00:05:42,Category is : Fund Income    Entry type is : Other Fund Income    start at:00:05:30    stop at:00:05:42
+2018-03-13 00:06:37,Category is : Corporate Actions    Entry type is : Capital Return    start at:00:06:25    stop at:00:06:37
+2018-03-13 00:06:55,Category is : Corporate Actions    Entry type is : Takeover/Scheme    start at:00:06:39    stop at:00:06:55
+2018-03-13 00:07:09,Category is : Corporate Actions    Entry type is : Off-Market Buy-Back    start at:00:06:58    stop at:00:07:09
+2018-03-13 00:07:23,Category is : Corporate Actions    Entry type is : Proceeds of Rights Issue    start at:00:07:12    stop at:00:07:23
+2018-03-13 00:08:25,Category is : Financial Asset Sale    Entry type is : Equities Sale    start at:00:08:12    stop at:00:08:25
+2018-03-13 00:08:42,Category is : Financial Asset Sale    Entry type is : Rights Sale    start at:00:08:28    stop at:00:08:42
+2018-03-13 00:08:56,Category is : Financial Asset Sale    Entry type is : Unlisted Managed Fund Sale    start at:00:08:45    stop at:00:08:56
+2018-03-13 00:09:10,Category is : Financial Asset Sale    Entry type is : Option Sale    start at:00:08:59    stop at:00:09:10
+2018-03-13 00:09:26,Category is : Financial Asset Sale    Entry type is : Trad. Instalm't Warrant Sale    start at:00:09:13    stop at:00:09:26
+2018-03-13 00:09:42,Category is : Financial Asset Sale    Entry type is : Warrant Sale    start at:00:09:29    stop at:00:09:42
+2018-03-13 00:10:00,Category is : Financial Asset Sale    Entry type is : Bond Sale    start at:00:09:44    stop at:00:10:00
+2018-03-13 00:10:17,Category is : Financial Asset Sale    Entry type is : Discount Security Sale    start at:00:10:03    stop at:00:10:17
+2018-03-13 00:10:31,Category is : Financial Asset Sale    Entry type is : Structured Products Sale<    start at:00:10:20    stop at:00:10:31
+2018-03-13 00:11:40,Category is : Non Financial Asset Sale    Entry type is : Property Sale    start at:00:11:24    stop at:00:11:40
+2018-03-13 00:11:54,Category is : Non Financial Asset Sale    Entry type is : Collectables/Other Sale    start at:00:11:43    stop at:00:11:54
+2018-03-13 00:12:12,Category is : Non Financial Asset Sale    Entry type is : Depreciating Asset Sale    start at:00:11:57    stop at:00:12:12
+2018-03-13 00:13:15,Category is : Derivatives Exercise    Entry type is : Option Exercise    start at:00:13:03    stop at:00:13:15
+2018-03-13 00:13:30,Category is : Derivatives Exercise    Entry type is : Warrant Exercise    start at:00:13:18    stop at:00:13:30
+2018-03-13 00:14:31,Category is : Employer & Personal Contrib¡¯s    Entry type is : Employer Contribution    start at:00:14:19    stop at:00:14:31
+2018-03-13 00:14:45,Category is : Employer & Personal Contrib¡¯s    Entry type is : Personal (Self-Employed) Cont.    start at:00:14:34    stop at:00:14:45
+2018-03-13 00:14:59,Category is : Employer & Personal Contrib¡¯s    Entry type is : Personal Cont. (Non-Deductible)    start at:00:14:48    stop at:00:14:59
+2018-03-13 00:15:18,Category is : Employer & Personal Contrib¡¯s    Entry type is : Salary Sacrifice Contribution    start at:00:15:02    stop at:00:15:18
+2018-03-13 00:16:21,Category is : Other Contributions    Entry type is : Spouse and Child Contribution    start at:00:16:08    stop at:00:16:21
+2018-03-13 00:16:36,Category is : Other Contributions    Entry type is : Government Co-Contribution    start at:00:16:25    stop at:00:16:36
+2018-03-13 00:16:54,Category is : Other Contributions    Entry type is : Small Bus. 15 Year Ex. Amount    start at:00:16:40    stop at:00:16:54
+2018-03-13 00:17:09,Category is : Other Contributions    Entry type is : Small Bus. Retirement Ex. Amount    start at:00:16:57    stop at:00:17:09
+2018-03-13 00:17:25,Category is : Other Contributions    Entry type is : Foreign Fund Contribution    start at:00:17:13    stop at:00:17:25
+2018-03-13 00:17:40,Category is : Other Contributions    Entry type is : Un-Deducted Invalidity Payment    start at:00:17:29    stop at:00:17:40
+2018-03-13 00:17:56,Category is : Other Contributions    Entry type is : Contribution Split - Inward    start at:00:17:44    stop at:00:17:56
+2018-03-13 00:18:15,Category is : Other Contributions    Entry type is : Other Family or Friend Contrib.    start at:00:17:59    stop at:00:18:15
+2018-03-13 00:18:35,Category is : Other Contributions    Entry type is : Inward Rollover    start at:00:18:19    stop at:00:18:35
+2018-03-13 00:18:52,Category is : Other Contributions    Entry type is : Rollover - From Internal Account    start at:00:18:39    stop at:00:18:52
+2018-03-13 00:19:48,Category is : Cash Transfer    Entry type is : Cash Account/Loan Withdrawal    start at:00:19:34    stop at:00:19:48
+2018-03-13 00:20:03,Category is : Cash Transfer    Entry type is : Securities Application    start at:00:19:52    stop at:00:20:03
+2018-03-13 00:20:18,Category is : Cash Transfer    Entry type is : Managed Account Deposit    start at:00:20:06    stop at:00:20:18
+2018-03-13 00:21:17,Category is : Cash Transfer    Entry type is : Cash Account/Loan Withdrawal    start at:00:21:02    stop at:00:21:17
+2018-03-13 00:21:37,Category is : Cash Transfer    Entry type is : Securities Application    start at:00:21:21    stop at:00:21:37
+2018-03-13 00:21:52,Category is : Cash Transfer    Entry type is : Managed Account Deposit    start at:00:21:40    stop at:00:21:52
+2018-03-13 00:22:51,Category is : Fund Expenses    Entry type is : Administration Expense    start at:00:22:37    stop at:00:22:51
+2018-03-13 00:23:10,Category is : Fund Expenses    Entry type is : Accounting/Regulatory Expense    start at:00:22:55    stop at:00:23:10
+2018-03-13 00:23:27,Category is : Fund Expenses    Entry type is : ATO Payment    start at:00:23:14    stop at:00:23:27
+2018-03-13 00:23:44,Category is : Fund Expenses    Entry type is : Portfolio Expense    start at:00:23:31    stop at:00:23:44
+2018-03-13 00:24:03,Category is : Fund Expenses    Entry type is : Property Related Expense    start at:00:23:49    stop at:00:24:03
+2018-03-13 00:24:19,Category is : Fund Expenses    Entry type is : Collectable Related Expense    start at:00:24:07    stop at:00:24:19
+2018-03-13 00:24:37,Category is : Fund Expenses    Entry type is : Payment of Accrual    start at:00:24:23    stop at:00:24:37
+2018-03-13 00:24:53,Category is : Fund Expenses    Entry type is : Depreciating Asset Expense    start at:00:24:41    stop at:00:24:53
+2018-03-13 00:25:08,Category is : Fund Expenses    Entry type is : Foreign Tax Paid    start at:00:24:56    stop at:00:25:08
+2018-03-13 00:25:23,Category is : Fund Expenses    Entry type is : Interest/Borrowing Fees    start at:00:25:12    stop at:00:25:23
+2018-03-13 00:25:40,Category is : Fund Expenses    Entry type is : Payment of an Equalisation Amount    start at:00:25:27    stop at:00:25:40
+2018-03-13 00:25:57,Category is : Fund Expenses    Entry type is : Non Trust Distribution    start at:00:25:44    stop at:00:25:57
+2018-03-13 00:26:14,Category is : Fund Expenses    Entry type is : Sundry Debtor    start at:00:26:00    stop at:00:26:14
+2018-03-13 00:26:32,Category is : Fund Expenses    Entry type is : Other Fund Expense    start at:00:26:18    stop at:00:26:32
+2018-03-13 00:27:32,Category is : Corporate Actions    Entry type is : Instalment Payment    start at:00:27:21    stop at:00:27:32
+2018-03-13 00:28:31,Category is : Member Expenses    Entry type is : Member Insurance    start at:00:28:19    stop at:00:28:31
+2018-03-13 00:29:26,Category is : Financial Asset Purchase    Entry type is : Equities Purchase    start at:00:29:13    stop at:00:29:26
+2018-03-13 00:29:43,Category is : Financial Asset Purchase    Entry type is : Rights Purchase    start at:00:29:29    stop at:00:29:43
+2018-03-13 00:29:58,Category is : Financial Asset Purchase    Entry type is : Unlisted Managed Fund Purchase    start at:00:29:47    stop at:00:29:58
+2018-03-13 00:30:15,Category is : Financial Asset Purchase    Entry type is : Option Purchase    start at:00:30:02    stop at:00:30:15
+2018-03-13 00:30:33,Category is : Financial Asset Purchase    Entry type is : Trad. Instalm't Warrant Purchase    start at:00:30:19    stop at:00:30:33
+2018-03-13 00:30:48,Category is : Financial Asset Purchase    Entry type is : Bond Purchase    start at:00:30:36    stop at:00:30:48
+2018-03-13 00:31:05,Category is : Financial Asset Purchase    Entry type is : Discount Security Purchase    start at:00:30:52    stop at:00:31:05
+2018-03-13 00:31:21,Category is : Financial Asset Purchase    Entry type is : Structured Products Purchase    start at:00:31:09    stop at:00:31:21
+2018-03-13 00:31:39,Category is : Financial Asset Purchase    Entry type is : Warrant Purchase    start at:00:31:24    stop at:00:31:39
+2018-03-13 00:31:56,Category is : Financial Asset Purchase    Entry type is : SPP Allocation    start at:00:31:43    stop at:00:31:56
+2018-03-13 00:33:14,Category is : Non Financial Asset Purchase    Entry type is : Property Purchase    start at:00:33:00    stop at:00:33:14
+2018-03-13 00:33:31,Category is : Non Financial Asset Purchase    Entry type is : Collectables/Other Purchase    start at:00:33:18    stop at:00:33:31
+2018-03-13 00:33:49,Category is : Non Financial Asset Purchase    Entry type is : Depreciating Asset Purchase    start at:00:33:35    stop at:00:33:49
+2018-03-13 00:34:52,Category is : Derivatives Exercise    Entry type is : Instalment Warrant Exercise    start at:00:34:37    stop at:00:34:52
+2018-03-13 00:35:08,Category is : Derivatives Exercise    Entry type is : Option Exercise    start at:00:34:56    stop at:00:35:08
+2018-03-13 00:35:25,Category is : Derivatives Exercise    Entry type is : Warrant Exercise    start at:00:35:11    stop at:00:35:25
+2018-03-13 00:36:40,console information:
+Traceback (most recent call last):
+  File "<string>", line 149, in test_dr_withdrawalofmemberbenefits
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webelement.py", line 261, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webelement.py", line 516, in find_element
+    {"using": by, "value": value})['value']
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webelement.py", line 499, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 297, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with xpath == //option[@value='56']
+
+2018-03-13 00:37:34,Category is : Member Account Rollover    Entry type is : External Rollover    start at:00:37:20    stop at:00:37:34
+2018-03-13 00:37:52,Category is : Member Account Rollover    Entry type is : Establish Pension Account    start at:00:37:38    stop at:00:37:52
+2018-03-13 00:38:09,Category is : Member Account Rollover    Entry type is : Reboot Pension Account    start at:00:37:55    stop at:00:38:09
+2018-03-13 00:38:28,Category is : Member Account Rollover    Entry type is : Commute Pension Account    start at:00:38:13    stop at:00:38:28
+2018-03-13 00:38:49,Category is : Member Account Rollover    Entry type is : Accumulation Account Rollover    start at:00:38:32    stop at:00:38:49
+2018-03-13 00:39:56,Category is : Transaction Adjustments    Entry type is : Transaction Reversals    start at:00:39:44    stop at:00:39:56
+2018-03-13 00:40:13,Category is : Transaction Adjustments    Entry type is : Annual Instalment Warrant Reset    start at:00:40:00    stop at:00:40:13
+2018-03-13 00:40:29,Category is : Transaction Adjustments    Entry type is : Cash Balance Correction    start at:00:40:17    stop at:00:40:29
+2018-03-13 00:40:46,Category is : Transaction Adjustments    Entry type is : Segregation Equalisation    start at:00:40:32    stop at:00:40:46
+2018-03-13 00:41:37,Category is : Corporate?Actions    Entry type is : ASX Security Delisting    start at:00:41:28    stop at:00:41:37
+2018-03-13 00:41:49,Category is : Corporate?Actions    Entry type is : ASX Security Relisting    start at:00:41:40    stop at:00:41:49
+2018-03-13 00:42:00,Category is : Corporate?Actions    Entry type is : Bonus/Rights Issue    start at:00:41:51    stop at:00:42:00
+2018-03-13 00:42:16,Category is : Corporate?Actions    Entry type is : Company Code / Name Change    start at:00:42:03    stop at:00:42:16
+2018-03-13 00:42:28,Category is : Corporate?Actions    Entry type is : Consolidation    start at:00:42:19    stop at:00:42:28
+2018-03-13 00:42:40,Category is : Corporate?Actions    Entry type is : Demerger    start at:00:42:31    stop at:00:42:40
+2018-03-13 00:42:54,Category is : Corporate?Actions    Entry type is : Distribution Reinvestment Plan    start at:00:42:42    stop at:00:42:54
+2018-03-13 00:43:06,Category is : Corporate?Actions    Entry type is : Dividend Reinvestment Plan    start at:00:42:57    stop at:00:43:06
+2018-03-13 00:43:18,Category is : Corporate?Actions    Entry type is : In Specie Distribution    start at:00:43:09    stop at:00:43:18
+2018-03-13 00:43:30,Category is : Corporate?Actions    Entry type is : Non Trust Distribution    start at:00:43:20    stop at:00:43:30
+2018-03-13 00:43:46,Category is : Corporate?Actions    Entry type is : Scrip for Scrip Scheme    start at:00:43:32    stop at:00:43:46
+2018-03-13 00:43:59,Category is : Corporate?Actions    Entry type is : Split    start at:00:43:49    stop at:00:43:59
+2018-03-13 00:44:47,Category is : In Specie Contributions    Entry type is : Personal (Self-Employed) Contrib.    start at:00:44:38    stop at:00:44:47
+2018-03-13 00:44:58,Category is : In Specie Contributions    Entry type is : Personal Contrib. (Non Deductible)    start at:00:44:49    stop at:00:44:58
+2018-03-13 00:45:48,Category is : In Specie Member Payments    Entry type is : In Specie Lump Sum Payment    start at:00:45:40    stop at:00:45:48
+2018-03-13 00:46:37,Category is : In Specie Rollovers    Entry type is : Inward Rollover    start at:00:46:25    stop at:00:46:37
+2018-03-13 00:47:25,Category is : Internal Contribution Split    Entry type is : Internal Contribution Split    start at:00:47:16    stop at:00:47:25
+2018-03-13 00:48:14,Category is : Member Account Rollover    Entry type is : Accumulation Account Rollover    start at:00:48:05    stop at:00:48:14
+2018-03-13 00:48:26,Category is : Member Account Rollover    Entry type is : Commute Pension Account    start at:00:48:17    stop at:00:48:26
+2018-03-13 00:48:42,Category is : Member Account Rollover    Entry type is : Establish Pension Account    start at:00:48:29    stop at:00:48:42
+2018-03-13 00:48:56,Category is : Member Account Rollover    Entry type is : Pension Account Reboot    start at:00:48:45    stop at:00:48:56
+2018-03-13 00:49:29,console information:
+Traceback (most recent call last):
+  File "<string>", line 151, in test_noncash_MemberAccountRollover
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webelement.py", line 261, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webelement.py", line 516, in find_element
+    {"using": by, "value": value})['value']
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webelement.py", line 499, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 297, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python34\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to find element with xpath == //option[@value='170']
+
+2018-03-13 00:50:14,Category is : Member Account Reclassification    Entry type is : Pension Account Reversion    start at:00:50:05    stop at:00:50:14
+2018-03-13 00:50:26,Category is : Member Account Reclassification    Entry type is : Preservation Reclassification    start at:00:50:17    stop at:00:50:26
+2018-03-13 00:50:38,Category is : Member Account Reclassification    Entry type is : Taxation Component Reclassification    start at:00:50:29    stop at:00:50:38
+2018-03-13 00:51:30,Category is : Accrual Amounts    Entry type is : Distribution Receivable    start at:00:51:21    stop at:00:51:30
+2018-03-13 00:51:41,Category is : Accrual Amounts    Entry type is : Dividend Receivable    start at:00:51:32    stop at:00:51:41
+2018-03-13 00:51:55,Category is : Accrual Amounts    Entry type is : Sundry Creditor    start at:00:51:44    stop at:00:51:55
+2018-03-13 00:52:07,Category is : Accrual Amounts    Entry type is : Sundry Debtor    start at:00:51:58    stop at:00:52:07
+2018-03-13 00:52:57,Category is : Adjustments/Write-offs    Entry type is : Accrual Adjustment    start at:00:52:48    stop at:00:52:57
+2018-03-13 00:53:09,Category is : Adjustments/Write-offs    Entry type is : Asset Balance Adjustment    start at:00:53:00    stop at:00:53:09
+2018-03-13 00:53:21,Category is : Adjustments/Write-offs    Entry type is : Asset Write-Off    start at:00:53:12    stop at:00:53:21
+2018-03-13 00:53:33,Category is : Adjustments/Write-offs    Entry type is : Derivatives Expiry    start at:00:53:24    stop at:00:53:33
+2018-03-13 00:53:47,Category is : Adjustments/Write-offs    Entry type is : Unit Balance Adjustment    start at:00:53:36    stop at:00:53:47
